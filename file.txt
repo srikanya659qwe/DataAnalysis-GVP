@@ -1,0 +1,2 @@
+hello guys this is write operation in file handling
+hello guys now here im using append mode
